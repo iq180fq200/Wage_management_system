@@ -1,7 +1,7 @@
 # Wage_management_system
 a wage-management-system written with WXwidgets UI library in C++
 ![image](https://user-images.githubusercontent.com/71375959/200111590-ffd9a7c3-1781-436d-afa1-088eac7e6294.png)
-#how to run the program
+# how to run the program
 run the mytry.exe in the code file on Windows
 # some snap shots of the program
 ![image](https://user-images.githubusercontent.com/71375959/200111334-631ce799-5467-43b7-9168-8819fb06c3a1.png)
